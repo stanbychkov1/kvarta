@@ -1,0 +1,4 @@
+planet,country,city,population,json
+earth,russia,moscow,4900.00
+earth,usa,NY,1200.00
+"earth",russia,"[samara, engels]","3700.01"
